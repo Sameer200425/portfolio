@@ -13,6 +13,7 @@ export const PERSONAL_INFO = {
   linkedin: "https://www.linkedin.com/in/sameerkhan252004",
   instagram: "https://www.instagram.com/pathan.sameerkhan_25",
   youtube: "https://www.youtube.com/@SameerKhan-44-ferrari",
+  portfolioUrl: "https://portfolio-ms5h53cg3-pathan-sameer-khans-projects.vercel.app/",
   stats: [
     { label: "Vision Models Evaluated", value: "ViT + CNN", sub: "Document Fraud & Explainable AI" },
     { label: "MLOps Endpoints", value: "<25ms", sub: "FastAPI & Grad-CAM Pipelines" },

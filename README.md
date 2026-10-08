@@ -9,8 +9,9 @@
 [![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-v4.0-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 [![Three.js](https://img.shields.io/badge/Three.js-WebGL-000000?style=for-the-badge&logo=three.js&logoColor=white)](https://threejs.org/)
 [![License](https://img.shields.io/badge/License-MIT-emerald?style=for-the-badge)](LICENSE)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-success?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-ms5h53cg3-pathan-sameer-khans-projects.vercel.app/)
 
-[**Explore Live Demo**](https://github.com/Sameer200425/portfolio) • [**LinkedIn**](https://www.linkedin.com/in/sameerkhan252004) • [**GitHub**](https://github.com/Sameer200425) • [**Email**](mailto:sameerkhan28083@gmail.com)
+[**🌐 Explore Live Portfolio**](https://portfolio-ms5h53cg3-pathan-sameer-khans-projects.vercel.app/) • [**LinkedIn**](https://www.linkedin.com/in/sameerkhan252004) • [**GitHub**](https://github.com/Sameer200425) • [**Email**](mailto:sameerkhan28083@gmail.com)
 
 </div>
 
